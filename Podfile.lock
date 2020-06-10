@@ -1,0 +1,16 @@
+PODS:
+  - FlexibleRowHeightGridLayout (1.3.1)
+
+DEPENDENCIES:
+  - FlexibleRowHeightGridLayout
+
+SPEC REPOS:
+  trunk:
+    - FlexibleRowHeightGridLayout
+
+SPEC CHECKSUMS:
+  FlexibleRowHeightGridLayout: a38c211f3311dc1d0609be7a08e8fc579346c766
+
+PODFILE CHECKSUM: dfb84e2c648ad777f437cdcf5b6c588a513ede3b
+
+COCOAPODS: 1.9.3
